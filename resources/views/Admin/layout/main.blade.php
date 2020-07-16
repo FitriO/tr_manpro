@@ -79,7 +79,9 @@
                             </a>
                         </li>
                     </ul>
-
+                    
+                    <img src="{{asset('img/logo.png')}}" width="80%" style="position: absolute;bottom:20px;padding-left: 25px"; alt="">
+                    
                 </div>
             </nav>
 
