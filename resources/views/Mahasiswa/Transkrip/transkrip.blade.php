@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="head-content">
-    <h5>Transkrip</h5>
+    <h5>Transkrip Nilai</h5>
     @if ($message = Session::get('error'))
     <div class="alert alert-danger alert-block">
         <button type="button" class="close" data-dismiss="alert">×</button>
